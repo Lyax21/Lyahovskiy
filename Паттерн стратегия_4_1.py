@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[9]:
-
-
 #Реализация паттерна стратегия
 #Декодирование файлов
 
@@ -81,10 +75,3 @@ File.open('file.c')  # c decode
 File.open('file.cpp')  # cpp decode
 File.open('file.js')  # js decode
 File.open('file.py')  # py decode
-
-
-# In[ ]:
-
-
-
-
